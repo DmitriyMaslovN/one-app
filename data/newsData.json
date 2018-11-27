@@ -1,0 +1,20 @@
+[
+            {
+                "id":1,
+                "author": "John",
+                "text": "my life",
+                "secText": "my big life is "
+            },
+            {
+                "id":2,
+                "author": "Jack",
+                "text": "the story about birds",
+                "secText": "big story about birds"
+            },
+            {
+                "id":3,
+                "author": "Patrick",
+                "text": "the story about his life and his birds",
+                "secText": "real life story survive man and birds"
+            }
+]
