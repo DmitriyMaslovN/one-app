@@ -1,0 +1,56 @@
+        body {
+        background: rgba(0, 150, 255, 0.38);
+        font-family: sans-serif;
+        }
+        p {
+        margin: 0 0 5px;
+        }
+        .article {
+        background-color: bisque;
+        border: 1px solid rgba(0, 89, 181, 0.82);
+        border-radius: 7px;
+        width: 600px;
+        margin: 0 0 5px;
+        box-shadow: 4px 4px 9px -1px rgb(100, 0, 100);
+        padding: 3px 5px;
+        }
+        .news_author {
+        text-decoration: underline;
+        color: #007DDC;
+        }
+        .news_count {
+        margin: 10px 0 0 0;
+        display: block;
+        }
+        .news_input {
+            margin: 0 5px 5px 0;
+        }
+        .add {
+        margin: 0 5px 5px 0;
+        width: 210px;
+        border: 1px dashed rgba(0,23, 100, 0.7);
+        padding: 5px;
+            border-radius: 7px;
+        }
+        .add_author, .add_text, .add_btn, .add_checkrule, .add_sec-text {
+        display: block;
+        margin: 0 0 5px 0;
+        padding: 5px;
+        width: 94%;
+        border: 1px solid rgba(0, 89, 181, 0.82);
+        border-radius: 4px;
+        }
+        .add_checkrule {
+        border: none;
+        font-size: 9px;
+        color:coral;
+        }
+        .add_btn {
+        box-sizing: content-box;
+        color:aqua;
+        background-color: darkcyan;
+        }
+        .add_btn:disabled {
+        background: #CCC;
+        color: #999;
+        }
